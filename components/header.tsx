@@ -13,7 +13,7 @@ export function Header() {
         Christian Lauer
       </h1>
       <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-        Capturing timeless moments of love and celebration through the lens of emotion and authenticity.
+        Capturing imeless moments of love and celebration through the lens of emotion and authenticity.
       </p>
     </header>
   );
